@@ -1,5 +1,5 @@
 node {
-    def GIT_URL = 'https://github.com/sdaschner/hello-openshift.git'
+    def GIT_URL = 'https://github.com/gerhard-bormann/hello-openshift.git'
     def PROJECT_NUMBER = '15'
 
     timestamps {
